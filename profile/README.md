@@ -1,11 +1,5 @@
-# General Acceptance
+![hero](../public/2.jpg)
 
-We build SaaS. Fast, sharp, and without noise.
+## About General Acceptance
 
-No endless meetings. No permission chains. If it's good, it ships.
-If it's not, we kill it and move on.
-
-We back builders who own outcomes, not titles.
-Ideas compete on merit. Execution wins arguments.
-
-This is where the next products come from.
+General Acceptance builds SaaS. Fast, sharp, and without noise. No endless meetings. No permission chains. If it's good, it ships. If it's not, we kill it and move on. We back builders who own outcomes, not titles. Ideas compete on merit. Execution wins arguments. This is where the next products come from.
